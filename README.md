@@ -1,2 +1,2 @@
 # Live-Current-Graph
-Project for my internship on TrioMobil
+Project for my internship in TrioMobil
