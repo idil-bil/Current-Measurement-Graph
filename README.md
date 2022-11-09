@@ -1,5 +1,5 @@
 # Live-Current-Graph
-Project for my internship in TrioMobil R&D
+Project for my internship in TrioMobil R&D (August 2022)
 
 ## Team Members
 [@HalilCakir](https://github.com/halilcakir) and Ümit Eren Ayhan
