@@ -1,4 +1,4 @@
-# Live-Current-Graph
+# Current-Measurement-Graph
 Project for my internship in TrioMobil R&D (August 2022)
 
 ## Team Members
