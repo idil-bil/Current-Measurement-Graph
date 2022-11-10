@@ -2,7 +2,8 @@
 Project for my internship in TrioMobil R&D (August 2022)
 
 ## Team Members
-[@HalilCakir](https://github.com/halilcakir) and Ümit Eren Ayhan
+- [@HalilCakir](https://github.com/halilcakir) 
+- Ümit Eren Ayhan
 
 ## Explanation
 The current measuring circuit (see the [image](https://github.com/idil-bil/Live-Current-Graph/blob/main/breadboard%20for%20esp32.jpg)) is built using an Esp32 module. The power is connected to 3.3 Volts and the resistor on the right is 1 kOhm. The current on the resistor in the left is read through pin 34 with the code written using Arduino ([ReadAnalogCurrent](https://github.com/idil-bil/Live-Current-Graph/blob/main/ReadAnalogCurrent.ino)). The code calculates the average voltage at every 100 values and then calculates the current.
