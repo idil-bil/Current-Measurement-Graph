@@ -1,5 +1,5 @@
 # Current-Measurement-Graph
-Project for my internship in TrioMobil R&D (August 2022)
+Project for my internship at TrioMobil Research & Development (August 2022)
 
 ## Team Members
 - Idil Bil
