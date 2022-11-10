@@ -2,6 +2,7 @@
 Project for my internship in TrioMobil R&D (August 2022)
 
 ## Team Members
+- Idil Bil
 - [@HalilCakir](https://github.com/halilcakir) 
 - Ümit Eren Ayhan
 
