@@ -1,5 +1,5 @@
 # Current-Measurement-Graph
-Project for my internship at TrioMobil Research & Development (August 2022)
+Project for my internship at TrioMobil Research & Development (August 2022) 
 
 ## Team Members
 - [Idil Bil](https://github.com/idil-bil)
@@ -11,4 +11,4 @@ The current measuring circuit (see the [image](https://github.com/idil-bil/Live-
 
 The [GetValue](https://github.com/idil-bil/Live-Current-Graph/blob/main/getvalue.py) file is written to read the data and store it in a .json file every second. Flask is also set up inside to serve an API that displays the data collected previously in a graph.
 
-The graph code is originally downloaded from [this website](https://s7.dosya.tc/server23/pox3ax/sad.rar.html) and [extracted](https://extract.me/). The [modified version](https://github.com/idil-bil/Live-Current-Graph/blob/main/graph%20(modified).html) is a line graph where you can choose a spesific time interval using the scrollbar and view the data measured. 
+The graph code is originally downloaded from [this website](https://s7.dosya.tc/server23/pox3ax/sad.rar.html) and [extracted](https://extract.me/). The [modified version](https://github.com/idil-bil/Live-Current-Graph/blob/main/graph%20(modified).html) is a line graph where you can choose a spesific time interval using the scrollbar and view the data measured.
